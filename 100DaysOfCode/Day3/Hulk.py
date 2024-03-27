@@ -1,3 +1,4 @@
+#link to problem: https://codeforces.com/problemset/problem/705/A
 oddPhrase="I hate"
 evenPharse="I love"
 joinPhrase="that"

@@ -1,3 +1,4 @@
+#link to problem: https://codeforces.com/problemset/problem/61/A
 str1=input()
 str2=input()
 output=''
